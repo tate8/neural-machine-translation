@@ -1,8 +1,12 @@
 # Neural Machine Translation
 
+## Description
 Using a Transormer model for english to spanish translation.
 <br>
 See ```NMT.ipynb``` for more details
+
+### Contributor(s)
+* Tate larkin
 
 
 ## Model
