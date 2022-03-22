@@ -1,6 +1,7 @@
 # Neural Machine Translation
 
 Using a Transormer model for english to spanish translation.
+<br>
 See NMT.ipynb for more details
 
 
